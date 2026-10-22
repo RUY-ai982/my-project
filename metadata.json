@@ -1,0 +1,6 @@
+{
+  "name": "SIM-PPPK PW - Sistem Perpanjangan Kontrak PPPK Terpadu",
+  "description": "Sistem informasi evaluasi dan perpanjangan kontrak kerja PPPK PW berbasis integrasi otomatis absensi, SKP, notifikasi jadwal berkala, penerbitan digital SPTJM dan rekomendasi atasan, serta validasi keamanan dokumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
